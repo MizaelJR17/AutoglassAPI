@@ -1,0 +1,39 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Domain", "src\Autoglass.Domain\Autoglass.Domain.csproj", "{4FC271F0-9008-4783-BF2F-644AD2D215B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Infrastructure", "src\Autoglass.Infrastructure\Autoglass.Infrastructure.csproj", "{F6AF3463-EA02-4C96-A4C2-91C48C46C9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Application", "src\Autoglass.Application\Autoglass.Application.csproj", "{479DC2E9-A471-4124-8982-FE46C3F8FDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Presentation", "src\Autoglass.Presentation\Autoglass.Presentation.csproj", "{1BC9F33A-572E-4A06-9ED7-002B7B4CA302}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {4FC271F0-9008-4783-BF2F-644AD2D215B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {4FC271F0-9008-4783-BF2F-644AD2D215B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {4FC271F0-9008-4783-BF2F-644AD2D215B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {4FC271F0-9008-4783-BF2F-644AD2D215B6}.Release|Any CPU.Build.0 = Release|Any CPU
+        {F6AF3463-EA02-4C96-A4C2-91C48C46C9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {F6AF3463-EA02-4C96-A4C2-91C48C46C9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {F6AF3463-EA02-4C96-A4C2-91C48C46C9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {F6AF3463-EA02-4C96-A4C2-91C48C46C9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+        {479DC2E9-A471-4124-8982-FE46C3F8FDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {479DC2E9-A471-4124-8982-FE46C3F8FDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {479DC2E9-A471-4124-8982-FE46C3F8FDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {479DC2E9-A471-4124-8982-FE46C3F8FDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+        {1BC9F33A-572E-4A06-9ED7-002B7B4CA302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {1BC9F33A-572E-4A06-9ED7-002B7B4CA302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {1BC9F33A-572E-4A06-9ED7-002B7B4CA302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {1BC9F33A-572E-4A06-9ED7-002B7B4CA302}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal

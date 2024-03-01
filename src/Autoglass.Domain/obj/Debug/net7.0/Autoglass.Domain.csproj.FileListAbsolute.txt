@@ -1,0 +1,12 @@
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/bin/Debug/net7.0/Autoglass.Domain.deps.json
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/bin/Debug/net7.0/Autoglass.Domain.dll
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/bin/Debug/net7.0/Autoglass.Domain.pdb
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.csproj.AssemblyReference.cache
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.AssemblyInfoInputs.cache
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.AssemblyInfo.cs
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.csproj.CoreCompileInputs.cache
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.dll
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/refint/Autoglass.Domain.dll
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/Autoglass.Domain.pdb
+/home/mizaeljr/Vídeos/AutoglassAPI/src/Autoglass.Domain/obj/Debug/net7.0/ref/Autoglass.Domain.dll
